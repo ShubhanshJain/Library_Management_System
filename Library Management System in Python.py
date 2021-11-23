@@ -1,7 +1,7 @@
 
 # Create a library class
 # display book
-# lend book - (who owns the book if not present)
+# borrow book - (who owns the book if not present)
 # add book
 # return book
 
